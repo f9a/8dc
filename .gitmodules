@@ -1,0 +1,10 @@
+[submodule "themes/ghostwriter"]
+	path = themes/ghostwriter
+	url = https://github.com/jbub/ghostwriter.git
+[submodule "public"]
+	path = public
+	url = https://github.com/f9a/f9a.github.io.git
+	branch = master
+[submodule "themes/gw"]
+	path = themes/gw
+	url = https://github.com/f9a/gw.git

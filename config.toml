@@ -1,0 +1,18 @@
+baseURL = "https://f9a.github.io/"
+languageCode = "de-DE"
+title = "Pensieve"
+theme = "gw"
+
+[Author]
+    name = "Mr. Hash"
+
+[Taxonomies]
+	tag = "tags"
+
+[Params]
+	intro = true
+
+[[menu.main]]
+	name = "Posts"
+	url = "/posts"
+	weight = 1
