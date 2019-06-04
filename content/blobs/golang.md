@@ -57,3 +57,41 @@ fmt.Printf("Your password has leaked, it is '%s', password)
 ```
 
 The full source code of the more detailed example is available [on Github](https://github.com/mycodesmells/golang-examples/tree/master/misc/password-input).«
+
+## Conventions
+
+* https://blog.golang.org/package-names
+
+## Testing
+
+https://segment.com/blog/5-advanced-testing-techniques-in-go/
+
+https://tip.golang.org/cmd/go/#hdr-Test_packages
+
+https://github.com/golang/net/blob/master/nettest/conntest.go
+
+Snapshots https://github.com/bradleyjkemp/cupaloy
+
+## Internals
+
+http://www.airs.com/blog/archives/277
+
+## Compile Time Assertions
+
+https://commaok.xyz/post/compile-time-assertions/
+
+## Interfaces
+
+https://research.swtch.com/interfaces
+
+## Work with go code
+
+https://github.com/golang/example/tree/master/gotypes
+
+https://github.com/golang/tools/blob/master/cmd/stringer/stringer.go
+
+https://godoc.org/golang.org/x/tools/go/loader
+
+https://godoc.org/golang.org/x/tools/cmd/goimports
+
+https://github.com/gchaincl/dotsql
